@@ -12,8 +12,9 @@
 
 import random
 
+Pkg install termux
 
-fruit = random.choice(["apple", "banana", "cherry", "durina"])
+ifruit = random.choice(["apple", "banana", "cherry", "durina"])
 print(f'Your choice was: {fruit}')
 
 
